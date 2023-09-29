@@ -16,3 +16,4 @@ The navigation bar is composed of a logo image which is linked to the home page 
 
 **Dropdown menus**
 These dropdown menus are aligned at two navigation links .They are positioned to be diplayed at the bottom of the nav link .Its transparent background and the box shadow provides a beautiful appearance(I keep reading its styling to confirm its existence lol).
+
